@@ -1,4 +1,4 @@
-# React-Minimal-Boilerplate
+# Easy-React-Boilerplate
  
  
  
