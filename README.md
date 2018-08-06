@@ -1,4 +1,4 @@
-# Easy-React-Boilerplate
+# Easy-React
 
  
 1. Download/clone
