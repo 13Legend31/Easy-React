@@ -1,9 +1,7 @@
 # Easy-React-Boilerplate
+
  
- 
- 
- 
-1. Download/clone repository
+1. Download/clone
 2. run 
 ```
 npm install 
