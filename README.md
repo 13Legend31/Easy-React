@@ -10,7 +10,7 @@ npm install
 Webpack, Style/CSS Loader, and babel are all configured. 
 Just install and go!
 
-To test, run:
+Local dev server:
 
 ```
 npm start
