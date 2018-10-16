@@ -26,6 +26,9 @@ module.exports = {
         new htmlWebpackPlugin({
             template:'./public/index.html'
         })
-    ]
+    ],
+    devServer: {
+        historyApiFallback: true
+    }
 }
 
